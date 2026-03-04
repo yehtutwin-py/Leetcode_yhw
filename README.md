@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
