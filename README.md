@@ -13,9 +13,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/yehtutwin-py/Leetcode_yhw/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
