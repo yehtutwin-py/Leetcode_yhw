@@ -9,16 +9,15 @@ class Solution(object):
             return nums.index(target)
         else:
             for i in range(len(nums)):
-                temp=0
-                if nums[i]>target:
+
+                if nums[i]<=target:
+                    if i==len(nums)-1:
+                        return len(nums)
+                else:
                     if i==0:
                         return 0
                     else:
-                        temp=nums.index(nums[i])
-                        break
-                else:
-                    temp=nums.index(nums[i])+1
-            return temp
+                        return nums.index(nums[i])
 
 
         
